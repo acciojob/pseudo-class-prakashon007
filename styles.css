@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+div, p{
+	display:inline;
+}
+p:first-child{
+	color:red;
+}
+p:last-child{
+	color:red;
+}
