@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 
-.box::before{
+div .box::before{
 	content:"Before Element";
 	color:red;
 }
-.box::after{
+div .box::after{
 	content:"After Element";
 	color:red;
 }
