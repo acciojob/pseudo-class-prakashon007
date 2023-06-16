@@ -2,7 +2,7 @@
 
 div .box::before{
 	content:"Before Element";
-	color:red;
+	color:rgb(0,0,0);
 }
 div .box::after{
 	content:"After Element";
